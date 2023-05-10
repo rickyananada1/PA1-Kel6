@@ -9521,7 +9521,7 @@ button.bg-dark:focus {
 }
 
 .text-white {
-  color: var(--yellow)    !important;
+  color: white !important;
 }
 
 .text-primary {

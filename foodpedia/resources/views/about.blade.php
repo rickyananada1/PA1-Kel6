@@ -2,7 +2,7 @@
 
 <div class="section">
     <div class="section-01">
-      <img src="{{ asset('FrontEnd/img/17.jpg') }}"></a>
+      <img src="{{ asset('FrontEnd/img/30.jpg') }}"></a>
       <p>foodpedia Numero Sada adalah sebuah UMKM di kabupaten Toba yang menyediakan berbagai menu makanan dan minuman yang sesuai dengan masakan Nusantara.
         selain makanan berat tersedia juga cemilan dan minumam menarik yang bisa dinikmati seluruh kalangan usia. Cafe yang berdiri sejak 2016 ini selalu mengikuti perkembangan selera customer dimana interior cafe yang instagramable menjadi salah satu daya tarik bagi pelanggan terutama bagi kaum anak muda</p>
     </div><br>
